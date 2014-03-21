@@ -52,3 +52,5 @@ class LuaRobot : public SimpleRobot
 		}
 	}
 };
+
+START_ROBOT_CLASS(LuaRobot);
